@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- region Login -->
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_enter">Enter</string>
+    <!-- endregion -->
+
+    <!-- region State -->
+    <string name="state_error">There\'s been an error</string>
+    <string name="state_empty">Empty data collected</string>
+    <string name="state_success">Success!!</string>
+    <!-- endregion -->
+</resources>
